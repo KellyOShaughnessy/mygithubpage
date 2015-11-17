@@ -111,7 +111,8 @@ a{
 
 .box{
 	text-align: center;
-	background: #ddd;
+	opacity = .5;
+	background: #EFF2FB;
 	padding: 20px;
 	border: 1px solid #aaa;
 }
