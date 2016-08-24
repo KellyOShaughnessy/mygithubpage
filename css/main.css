@@ -184,7 +184,8 @@ ul {
 /* Links */
 
 a {
-	color: #000099;
+	color: #DEADA1;
+	text-decoration: none;
 }
 
 /* Language boxes */
@@ -223,6 +224,8 @@ a {
 	text-transform: uppercase;
 	vertical-align: middle;
 }
+
+.box { padding: 5px;}
 
 #github:hover, #linkedin:hover, .box:hover {
 	opacity: .5;
