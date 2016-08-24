@@ -1,22 +1,4 @@
-<<<<<<< HEAD
-/* General Styling */
 
-body{
-	/*hex color codes*/
-	background: #fff;
-	font-family: 'Nixie One', cursive;
-	font-size: 17px;
-	margin: 0;
-	padding: 0;
-	text-align: center;
-}
-
-.container{
-	max-width: 900px;
-	margin: auto;
-	margin-top: 50px;
-	margin-bottom: 50px;
-=======
 
 /* General Styling */
 
@@ -88,28 +70,17 @@ p {
 
 .cont_2 hr {
 	max-width: 1000px;
->>>>>>> gh-pages
 }
 
 /* Span tag */
 
-<<<<<<< HEAD
-span{
-=======
 span {
->>>>>>> gh-pages
 	color: blue;
 	font-style: italic;
 }
 
 /* Headings */
 
-<<<<<<< HEAD
-h1{
-	text-align: center;
-	font-size: 30px;
-	margin-bottom: 30px;
-=======
 .header {
 	font-size: 30px;
 	padding: 30px;
@@ -124,96 +95,20 @@ h1{
 	background: white;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 200;
->>>>>>> gh-pages
 }
 
 /* Navigation */
 
 .navigation{
-<<<<<<< HEAD
-	background: #000;
-	text-align: center;
-=======
+	text-align: right;
 	background: #3C4663;
 	opacity: 0.8;
 	position: fixed;
 	width: 100%;
 	display: block;
->>>>>>> gh-pages
-}
-
-.navigation ul{
-	margin: 0;
-<<<<<<< HEAD
-	padding: 0;
-}
-
-.navigation li{
-	display: inline-block;
-}
-
-.navigation li a{
-	text-decoration: none;
-	color: #fff;
-	display: inline-block;
-	padding: 15px 10px;
-	text-transform: uppercase;
-	font-weight: bold;
-	font-size: 14px;
-}
-
-.navigation li a:hover{
-	background: #888;
-}
-
-/* Links */
-
-a{
-	color: red;
-
 }
 
 /* Columns */
-
-.column{
-	width: 22%;
-	display: inline-block;
-	background: #ddd;
-	padding: 20px 3%;
-	margin-right: 2%;
-}
-
-/* Spans in columns -- overrides previous span tag */
-
-.column span{
-	color: green;
-}
-
-/* Doge Image */
-
-#doge{
-	float: left;
-	margin-right: 20px;
-	margin-bottom: 20px;
-}
-
-#kelly{
-	width: 100%;
-	padding: 20px;
-	border: 2px solid #000;
-}
-
-#camden{
-	width: 85%;
-	height: 100%;
-	padding: 20px;
-	border: 2px solid #000;
-}
-
-=======
-	padding: 10px 10px;
-	text-align: right;
-}
 
 .navigation li {
 	display: inline-block;
@@ -312,6 +207,7 @@ a {
 	position: static;
 	display: inline-block;
 	margin: 5px;
+}
 
 /* Learn more links */
 
@@ -334,10 +230,10 @@ a {
 
 /* Columns */
 
-.imgs {
+/*.imgs {
 	position: relative;
 	height: 1000px;
-}
+}*/
 
 .column {
 	width: 22%;
@@ -361,28 +257,11 @@ a {
 .column span {
 	color: green;
 }
->>>>>>> gh-pages
 
-/* Box in Contact Page */
-
-.box{
+.center {
 	text-align: center;
-<<<<<<< HEAD
-	background: #ddd;
-	padding: 20px;
-	border: 1px solid #aaa;
-=======
-	height: 75px;
-	line-height: 35px;
->>>>>>> gh-pages
 }
 
-.center{
-	text-align: center;
-<<<<<<< HEAD
-}
-=======
-}
 
 /* Images */
 
@@ -404,4 +283,3 @@ a {
 	width: 225px;
 	border-radius: 60%;
 }
->>>>>>> gh-pages
